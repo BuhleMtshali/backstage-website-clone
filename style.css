@@ -15,6 +15,7 @@ body {
   height: 100vh;
   scroll-behavior: smooth;
   cursor: pointer;
+  transition: all 0.3s ease-in;
 }
 section {
   scroll-snap-align: start;
