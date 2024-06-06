@@ -14,6 +14,7 @@ body {
   width: 100%;
   height: 100vh;
   scroll-behavior: smooth;
+  cursor: pointer;
 }
 section {
   scroll-snap-align: start;
@@ -120,6 +121,7 @@ section {
   margin-bottom: 0;
   text-decoration: underline;
   margin-top: 0;
+  padding-bottom: 15px;
 }
 
 .second {
@@ -137,12 +139,12 @@ section {
 }
 .bottom-right-list li {
   padding: 5px 0;
-  color: white;
+
   font-weight: bold;
 }
 .child-2 {
   background-color: #1d3fbb;
-
+  color: #251d20;
   width: 100%;
   height: 100vh;
 }
@@ -162,4 +164,18 @@ section {
   background-color: #ff651a;
   width: 100%;
   height: 100vh;
+}
+.child-5 {
+  background-color: #00c1b5;
+  width: 100%;
+  height: 100vh;
+}
+.pink {
+  color: #e568ac;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: bold;
+}
+.child-7 {
+  background-color: #ff608c;
 }
