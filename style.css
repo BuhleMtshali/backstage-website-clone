@@ -49,6 +49,7 @@ body {
   width: 420px;
   margin-left: 0;
   margin-right: 0;
+  padding-top: 30px;
 }
 .mini-descrip {
   color: #251d20;
@@ -112,9 +113,7 @@ body {
 
   text-decoration: underline;
 }
-.child-2 {
-  background-color: #1d3fbb;
-}
+
 .second {
   margin: 0;
 }
@@ -130,4 +129,20 @@ body {
 }
 .bottom-right-list li {
   padding: 5px 0;
+  color: white;
+  font-weight: bold;
+}
+.child-2 {
+  background-color: #1d3fbb;
+  padding-bottom: 60px;
+}
+.bold-white {
+  font-size: 15px;
+  padding-top: 3px;
+  line-height: 22px;
+  font-weight: bold;
+  color: white;
+}
+.child-3 {
+  background-color: #ffbe00;
 }
