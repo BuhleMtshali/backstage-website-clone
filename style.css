@@ -11,3 +11,8 @@ body {
   height: 100vh;
   scroll-behavior: smooth;
 }
+.child-1 {
+  background-color: #00c1b5;
+  width: 100%;
+  height: 100vh;
+}
