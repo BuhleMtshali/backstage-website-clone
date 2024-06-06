@@ -12,15 +12,20 @@ body {
   scroll-behavior: smooth;
 }
 .child-1 {
-  background-color: #00c1b5;
+  background-color: #e30512;
   width: 100%;
   height: 100vh;
 }
-.title-page {
-  margin: 0;
-}
+
 .email-left {
   margin: 0;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.logo {
+  width: 260px;
+  height: auto;
+  padding-top: 10px;
 }
 .top-nav {
   display: flex;
@@ -28,4 +33,16 @@ body {
   top: 0;
   left: 0;
   right: 0;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.mid-image {
+  text-align: center;
+  padding-top: 10px;
+}
+.image {
+  width: 420px;
+  margin-left: 0;
+  margin-right: 0;
 }
