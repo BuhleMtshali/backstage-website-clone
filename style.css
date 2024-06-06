@@ -43,13 +43,12 @@ body {
 }
 .mid-image {
   text-align: center;
-  padding-top: 10px;
 }
 .image {
   width: 420px;
   margin-left: 0;
   margin-right: 0;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 .mini-descrip {
   color: #251d20;
@@ -134,7 +133,9 @@ body {
 }
 .child-2 {
   background-color: #1d3fbb;
-  padding-bottom: 60px;
+
+  width: 100%;
+  height: 100vh;
 }
 .bold-white {
   font-size: 15px;
@@ -145,4 +146,6 @@ body {
 }
 .child-3 {
   background-color: #ffbe00;
+  width: 100%;
+  height: 100vh;
 }
